@@ -146,7 +146,7 @@ input:focus {
 .wrong:after {
     content: 'Passwords do not match.';
     position: absolute;
-    top: 46px;
+    top: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: .65rem;
     color:red;
